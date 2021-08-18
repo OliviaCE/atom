@@ -1,0 +1,3 @@
+*.atom linguist-language=atom text=auto eol=lf
+*.atomm linguist-language=atom text=auto eol=lf
+*.bat text=auto eol=crlf
